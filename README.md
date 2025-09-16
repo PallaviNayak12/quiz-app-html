@@ -8,7 +8,7 @@ It features multiple-choice questions, score tracking, and a play-again option.
 ## 🚀 Features
 - Clean and responsive UI  
 - Multiple-choice questions  
-- Highlights correct/incorrect answers  
+- Highlights correct/incorrect answers 
 - Keeps track of score  
 - Restart option after finishing  
 
