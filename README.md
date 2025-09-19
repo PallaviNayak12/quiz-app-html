@@ -10,7 +10,7 @@ It features multiple-choice questions, score tracking, and a play-again option.
 - Multiple-choice questions  
 - Highlights correct/incorrect answers 
 - Keeps track of score  
-- Restart option after finishing  
+- Restart option after finishing 
 
 ---
 
