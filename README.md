@@ -39,5 +39,4 @@ It features multiple-choice questions, score tracking, and a play-again option.
 ---
 
 
-   ```bash
-   git clone https://github.com/YourUsername/quiz-app-html.git
+  
