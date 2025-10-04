@@ -17,7 +17,6 @@ It features multiple-choice questions, score tracking, and a play-again option.
 ## 📸 Screenshots
 
 
-
 ![Question Example](questionexample.png)
 ![Score Screen](score.png)
 
