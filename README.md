@@ -1,6 +1,6 @@
 # 🧠 Online Quiz App
 
-A simple and interactive **Quiz Application** built with **HTML, CSS, and JavaScript**.  
+A simple and interactive **Quiz Application** built with **HTML, CSS, and JavaScript**. 
 It features multiple-choice questions, score tracking, and a play-again option.  
 
 ---
